@@ -51,6 +51,7 @@ namespace GuessingGame
                Console.WriteLine("The correct number is {0}",correctNumber);
             }
             Console.ReadLine();//To keep the console application running
+            //I am going to add a new line for the commit
 
            
         }
